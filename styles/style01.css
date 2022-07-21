@@ -115,6 +115,7 @@
     opacity: 0;
     
   }
+
   .container .header-info .banner-article .section-detail {
 
     font-size: 14px;
@@ -127,11 +128,13 @@
     text-align: justify;
 
   }
+
   .slide-left {
 
     animation: slidleft 1s linear forwards;
 
   }
+
   @keyframes slidleft {
 
     0% {
@@ -148,11 +151,13 @@
     }
 
   }
+
   p.slide-left {
 
     animation-delay: 1s;
 
   }
+
   .button-1.slide-left {
 
     animation-delay: 2s;
@@ -193,6 +198,7 @@
     border-radius: 10px;
 
   }
+
   .blog-sidebar-menu a {
 
     background-color: #ffffff;
@@ -233,7 +239,9 @@
   .article-img img {
 
     width: 100%;
+
   }
+
   .article-button a {
 
     display: inline-block;
@@ -254,6 +262,7 @@
     margin: 10px 0 10px 10px;
 
   }
+
   .article-icon {
 
     display: flex;
@@ -328,6 +337,7 @@
     padding: 25px 0;
 
   }
+  
   .footer-list ul li a {
 
     color: rgba(255, 255, 255, 0.452);
